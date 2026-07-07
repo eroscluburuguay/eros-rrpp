@@ -143,6 +143,13 @@ const RRPP_LIST = [
     whatsapp: "59894444223",
     instagramUrl: "https://instagram.com/octavio_ibarrra",
   },
+   {
+    nombre: "Ivan Shamlian",
+    ciudad: "Las Piedras",
+    instagram: "@ivanshamlian",
+    whatsapp: "59897376917",
+    instagramUrl: "https://instagram.com/ivanshamlian",
+  },
   {
     nombre: "Juan Manuel Sandro",
     ciudad: "Santa Lucía",
