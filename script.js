@@ -18,10 +18,10 @@ const RRPP_LIST = [
   {
     nombre: "Diego Lenzi",
     ciudad: "Santa Lucía",
-    instagram: "@diegolenzi",
+    instagram: "@diegolenzi.dj",
     foto: "img/diego.jpg",
-    whatsapp: "59899999999",
-    instagramUrl: "https://instagram.com/diegolenzi",
+    whatsapp: "59899051064",
+    instagramUrl: "https://instagram.com/diegolenzi.dj",
   },
   {
     nombre: "Francisco Fleitas",
@@ -32,12 +32,12 @@ const RRPP_LIST = [
     instagramUrl: "https://www.instagram.com/fraanfleitass/",
   },
   {
-    nombre: "Bruno Acosta",
-    ciudad: "Punta del Este",
-    instagram: "@brunoacosta",
-    foto: "img/bruno.jpg",
-    whatsapp: "59897654321",
-    instagramUrl: "https://instagram.com/brunoacosta",
+    nombre: "Pilar Lapeyre",
+    ciudad: "Canelones",
+    instagram: "@pilarlapeyre__",
+    foto: "img/pilarlapeyre.jpg",
+    whatsapp: "59895288335",
+    instagramUrl: "https://instagram.com/pilarlapeyre__",
   },
   {
     nombre: "Camila Suárez",
