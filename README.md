@@ -35,3 +35,5 @@ reemplazá el valor de `href` por el link real de venta de entradas.
    carpeta `img/` a un repositorio de GitHub.
 2. Andá a Settings → Pages → Source → seleccioná la rama principal.
 3. Listo, la página va a estar disponible en `https://tuusuario.github.io/turepo/`.
+
+Hecho por Diego Lenzi.
