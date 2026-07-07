@@ -179,13 +179,6 @@ const RRPP_LIST = [
     instagramUrl: "https://instagram.com/juanmapiccardo",
   },
   {
-    nombre: "Juanma Piccardo",
-    ciudad: "Santa Lucia",
-    instagram: "@juanmapiccardo",
-    whatsapp: "59897357392",
-    instagramUrl: "https://instagram.com/juanmapiccardo",
-  },
-  {
     nombre: "Valentin Camacho",
     ciudad: "Juanicó",
     instagram: "@valentin_cama",
