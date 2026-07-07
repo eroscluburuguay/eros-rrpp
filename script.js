@@ -272,7 +272,7 @@ function normalize(text) {
 // Arma el link de WhatsApp con mensaje predefinido
 function buildWhatsappLink(numero, nombre) {
   const mensaje = encodeURIComponent(
-    `Hola ${nombre}! Quiero comprar entradas para EROS 💜`
+    `Hola ${nombre}! Quiero comprar entradas para EROS`
   );
   return `https://wa.me/${numero}?text=${mensaje}`;
 }
