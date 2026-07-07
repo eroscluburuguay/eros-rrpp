@@ -234,6 +234,13 @@ const RRPP_LIST = [
     whatsapp: "59893646507",
     instagramUrl: "https://instagram.com/mmanu_gonzalez",
   },
+  {
+    nombre: "Sabrina Lopez",
+    ciudad: "Santa Lucia",
+    instagram: "@sabrinalopezzt",
+    whatsapp: "59898776883",
+    instagramUrl: "https://instagram.com/sabrinalopezzt",
+  },
 ];
 
 /* ==========================================================================
