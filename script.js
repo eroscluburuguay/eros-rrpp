@@ -143,7 +143,7 @@ const RRPP_LIST = [
     whatsapp: "59894444223",
     instagramUrl: "https://instagram.com/octavio_ibarrra",
   },
-   {
+  {
     nombre: "Ivan Shamlian",
     ciudad: "Las Piedras",
     instagram: "@ivanshamlian",
