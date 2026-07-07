@@ -84,7 +84,7 @@ const RRPP_LIST = [
     nombre: "Leandro Lopez",
     ciudad: "Santa Lucía",
     instagram: "@leandrolopez.01",
-    whatsapp: "59898833402",
+    whatsapp: "59898097221",
     instagramUrl: "https://instagram.com/leandrolopez.01",
   },
   {
