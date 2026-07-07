@@ -241,6 +241,13 @@ const RRPP_LIST = [
     whatsapp: "59898776883",
     instagramUrl: "https://instagram.com/sabrinalopezzt",
   },
+  {
+    nombre: "Lucas Armerllino",
+    ciudad: "Santa Lucia",
+    instagram: "@lucasarmellino",
+    whatsapp: "59892336243",
+    instagramUrl: "https://instagram.com/lucasarmellino",
+  },
 ];
 
 /* ==========================================================================
