@@ -24,12 +24,12 @@ const RRPP_LIST = [
     instagramUrl: "https://instagram.com/diegolenzi",
   },
   {
-    nombre: "Valentina Ríos",
-    ciudad: "Montevideo",
-    instagram: "@valerios",
-    foto: "img/valentina.jpg",
-    whatsapp: "59891234567",
-    instagramUrl: "https://instagram.com/valerios",
+    nombre: "Francisco Fleitas",
+    ciudad: "Santa Lucía",
+    instagram: "@fraanfleitass",
+    foto: "img/fleitas.jpg",
+    whatsapp: "59891317125",
+    instagramUrl: "https://www.instagram.com/fraanfleitass/",
   },
   {
     nombre: "Bruno Acosta",
