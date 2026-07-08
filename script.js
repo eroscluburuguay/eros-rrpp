@@ -238,8 +238,15 @@ const RRPP_LIST = [
     nombre: "Lucas Armerllino",
     ciudad: "Santa Lucia",
     instagram: "@lucasarmellino",
-    whatsapp: "59892336243",
+    whatsapp: "59891611277",
     instagramUrl: "https://instagram.com/lucasarmellino",
+  },
+  {
+    nombre: "Valentin Torres",
+    ciudad: "Los Cerrillos",
+    instagram: "@valeen_torres_",
+    whatsapp: "59892336243",
+    instagramUrl: "https://instagram.com/valeen_torres_",
   },
 ];
 
